@@ -82,7 +82,7 @@ This repository contains **interactive Tableau dashboards** created to analyze *
 ## 📬 Contact
 
 - **Name:** Mohsin Raza
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohsin--raza/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
 
 ---
 
