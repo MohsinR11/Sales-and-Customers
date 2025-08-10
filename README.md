@@ -10,7 +10,7 @@ Provides actionable insights into **profitability, customer trends, and sales gr
 
 ## 📑 Table of Contents
 1. <a href="#project-title">Project Title</a>  
-2. <a href="#project-overview">Summary / Objective</a>  
+2. <a href="#project-overview">Project Overview</a>  
 3. <a href="#project-overview">Overview</a>  
 4. <a href="#problem-statement">Problem Statement</a>  
 5. <a href="#dataset-description">Dataset Description</a>  
