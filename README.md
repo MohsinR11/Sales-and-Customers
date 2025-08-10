@@ -101,8 +101,8 @@ This project solves that by creating **centralized, interactive Tableau dashboar
 ## 👤 Author & Contact
 **Name:** Mohsin Raza  
 **Email:** mohsinansari1799@gmail.com  
-**Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=portfolio&logoColor=white)](https://tinyurl.com/MohsinRaza-Portfolio)  
-**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)
+**[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=portfolio&logoColor=white)](https://tinyurl.com/MohsinRaza-Portfolio)**   
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin--raza)** 
   
 ---
 
