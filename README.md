@@ -9,18 +9,18 @@ Provides actionable insights into **profitability, customer trends, and sales gr
 ---
 
 ## 📑 Table of Contents
-1. [Project Title](#-tableau-dashboards-sales--customer-analysis)  
-2. [Summary / Objective](#-project-overview)  
-3. [Overview](#-project-overview)  
-4. [Problem Statement](#-problem-statement)  
-5. [Dataset Description](#-dataset-description)  
-6. [Tools & Technologies](#-tools--technologies)  
-7. [Process / Methods](#-process--methods)  
-8. [Dashboards / Output](#-dashboards--output)  
-9. [How to Run](#-how-to-run)  
-10. [Results & Insights](#-results--insights)  
-11. [Future Work](#-future-work)  
-12. [Author & Contact](#-author--contact)  
+1. <a href="#project-title">Project Title</a>  
+2. <a href="#project-overview">Summary / Objective</a>  
+3. <a href="#project-overview">Overview</a>  
+4. <a href="#problem-statement">Problem Statement</a>  
+5. <a href="#dataset-description">Dataset Description</a>  
+6. <a href="#tools--technologies">Tools & Technologies</a>  
+7. <a href="#process--methods">Process / Methods</a>  
+8. <a href="#dashboards--output">Dashboards / Output</a>  
+9. <a href="#how-to-run">How to Run</a>  
+10. <a href="#results--insights">Results & Insights</a>  
+11. <a href="#future-work">Future Work</a>  
+12. <a href="#author--contact">Author & Contact</a>  
 
 ---
 
